@@ -8,7 +8,7 @@ O projeto é um comversor, esse foi um desafio proposto pela Alura, onde tinhamo
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Conversor de Moedas :coin:
+- `Funcionalidade 1`: Conversor de Moedas :money:
 - `Funcionalidade 2`: Conversor de Temperatura :thermometer:
-- `Funcionalidade 3`: Conversor de medida :scale:
+- `Funcionalidade 3`: Conversor de medida :ruler:
 - `Funcionalidade 4`: Conversor de Tempo :watch:
